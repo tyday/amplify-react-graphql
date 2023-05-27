@@ -1,3 +1,6 @@
+# Hosting a Static Website on AWS
+https://aws.amazon.com/getting-started/hands-on/host-static-website/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
